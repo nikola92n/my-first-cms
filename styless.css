@@ -1,0 +1,44 @@
+/* styless.css */
+
+body {
+	font-family: tahoma;
+}
+
+.container {
+	position: relative;
+	display: block;
+	top: 120px;
+	width: 420px;
+	margin: 0 auto;
+	border: solid skyblue 2px;
+	padding: 20px;
+}
+
+a:link, a:visited {
+	color: slateGray;
+	text-decoration: none;
+	border-bottom: 1px dotted slateGray;
+}
+
+a:hover {
+	color: #444;
+}
+
+small {
+	color: #999;
+	font-style: italic;
+}
+
+p {
+	line-height: 30px;
+}
+
+#logo {
+	color: navy;
+	font-size: 25px;
+	margin-left: 15%;
+}
+
+form textarea {
+	margin-top: 10px;
+}

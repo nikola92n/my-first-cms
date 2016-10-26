@@ -3,7 +3,7 @@
 	$host = "localhost";
 	$database = "firstcms";
 	$username = "root";
-	$password = "wartex92";
+	$password = "root";
 
 		try {
 
